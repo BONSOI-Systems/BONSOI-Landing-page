@@ -17,14 +17,14 @@ export function Footer() {
                 href="/"
                 className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100"
               >
-                <span>Bonsoi</span>
+                <span>BONSOI</span>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Bonsoi Systems offers a powerful, customizable platform for
-              startups and businesses. Built with Next.js and TailwindCSS, our
-              solutions are optimized for performance and scalability.
+              BONSOI Systems offers a powerful, customizable applications 
+              to your buisness. Built with AI/ML and Security services
+              optimized for performance and scalability.
             </div>
           </div>
 
@@ -66,7 +66,7 @@ export function Footer() {
                 <Github />
               </a>
               <a
-                href="https://github.com/BONSOI-Systems"
+                href="https://chat.whatsapp.com/L11Rq3WgjrNLWmuYtpS7TV"
                 target="_blank"
                 rel="noopener"
               >
@@ -86,7 +86,7 @@ export function Footer() {
         </div>
 
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
-          Copyright © {new Date().getFullYear()}
+          Copyright © All Rights Reserved {new Date().getFullYear()}
         </div>
       </Container>
     </div>
