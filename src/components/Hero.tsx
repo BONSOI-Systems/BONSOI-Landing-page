@@ -9,22 +9,23 @@ export const Hero = () => {
         <div className="flex items-center w-full lg:w-1/2">
           <div className="max-w-2xl mb-8">
             <h1 className="text-4xl font-bold leading-snug tracking-tight text-gray-800 lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight dark:text-white">
-              Innovative AI & Full-Stack Solutions
+              Innovative AI/ML & Full-Stack Software Solutions
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Bonsoi Systems crafts AI, ML, and full-stack applications, turning
-              your vision into powerful digital solutions. Elevate your business
-              with our expertise.
+              Welcome to BONSOI Systems, where innovation meets excellence in software development. 
+              At BONSOI Systems, we are dedicated to creating cutting-edge applications tailored to meet the unique needs of our clients. 
+              Our team of experienced developers and engineers is passionate about delivering high-quality, scalable, 
+              and efficient software solutions that drive success and transformation.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
+                href="Register Now"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md "
               >
-                Get Started
+                Register Now
               </a>
               {/* <a
                 href="https://github.com/web3templates/nextly-template/"
