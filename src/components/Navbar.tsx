@@ -17,7 +17,15 @@ export const Navbar = () => {
               <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
                 <Link href="/">
                   <span className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-gray-100">
-                    <span>Bonsoi</span>
+                    <span>
+                      <Image
+                        src="/logo.svg"
+                        alt="N"
+                        width="50"
+                        height="50"
+                        className="w-20 rounded-full"
+                      />
+                    </span>
                   </span>
                 </Link>
 
@@ -71,7 +79,7 @@ export const Navbar = () => {
         </Disclosure>
 
         {/* menu  */}
-        <div className="hidden text-center lg:flex lg:items-center">
+        {/* <div className="hidden text-center lg:flex lg:items-center">
           <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
             {navigation.map((menu, index) => (
               <li className="mr-3 nav__item" key={index}>
@@ -84,12 +92,12 @@ export const Navbar = () => {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
           <Link
             href="/"
-            className="px-6 py-2 text-white bg-green-600 rounded-md md:ml-5"
+            className="px-6 py-4 text-white bg-green-600 rounded-md md:ml-5"
           >
             Contact Us
           </Link>
