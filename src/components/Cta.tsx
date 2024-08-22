@@ -10,7 +10,7 @@ export const Cta = () => {
             Ready to Transform Your Ideas?
           </h2>
           <p className="mt-2 font-medium text-white text-opacity-90 lg:text-xl">
-            Partner with Bonsoi Systems to bring your vision to life with our
+            Bring your vision to Bonsoi Systems we will create it in reality with our
             cutting-edge development solutions.
           </p>
         </div>

@@ -11,8 +11,8 @@ import { PopupWidget }  from "@/components/PopupWidget";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BONSOI Systems | Web Agency",
-  description: "BONSOI Systems specializes in creating tailored web, app, and Web3 solutions, with a focus on high-performance landing pages, cutting-edge technologies, and secure, responsive design.",
+  title: "BONSOI Systems | Development Agency",
+  description: "BONSOI Systems specializes in creating tailored Web Apps, Softwares, and Web3 solutions, with a focus on high-performance landing pages, cutting-edge technologies, and secure, responsive design.",
 };
 
 

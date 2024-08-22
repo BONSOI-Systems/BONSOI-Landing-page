@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <Container>
       <Hero />
-      <SectionTitle preTitle="Why Bonsoi" title="Why Choose Bonsoi Systems?">
-        Bonsoi Systems delivers tailored AI, ML, full-stack, and WordPress
+      <SectionTitle preTitle="Why BONSOI" title="Why to choose BONSOI Systems?">
+        BONSOI Systems delivers tailored AI/ML, Web3, Full-Stack, and WordPress
         solutions for startups and businesses. Built with the latest
         technologies, our services empower you to innovate and scale with ease.
       </SectionTitle>
@@ -22,7 +22,7 @@ export default function Home() {
       <Benefits imgPos="right" data={benefitTwo} />
 
       <SectionTitle preTitle="Watch a video" title="See How We Transform Ideas">
-        Explore how Bonsoi Systems turns your concepts into cutting-edge digital
+        Explore how BONSOI Systems turns your concepts into cutting-edge digital
         solutions. Watch our demo to see our development process in action,
         driving results for your business.
       </SectionTitle>
@@ -39,7 +39,7 @@ export default function Home() {
 
       <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
         Have questions about our services? Find answers here to help you
-        understand how Bonsoi Systems can meet your development needs, from AI
+        understand how BONSOI Systems can meet your development needs, from AI/ML
         to full-stack solutions.
       </SectionTitle>
       <Faq />

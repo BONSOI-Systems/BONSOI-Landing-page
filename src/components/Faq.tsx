@@ -42,12 +42,12 @@ const faqdata = [
   {
     question: "What services does Bonsoi Systems offer?",
     answer:
-      "Bonsoi Systems specializes in AI, ML, full-stack, and WordPress development, delivering custom digital solutions tailored to your business needs.",
+      "Bonsoi Systems specializes in AI/ML, Full-Stack, Web3 and WordPress development, delivering custom digital solutions tailored to your business needs.",
   },
   {
     question: "Can Bonsoi Systems handle complex projects?",
     answer:
-      "Absolutely. We have expertise in developing advanced AI and machine learning models, as well as full-stack applications to meet complex project requirements.",
+      "Absolutely. We have expertise in developing advanced Artificial Intelligence and Machine Learning models, as well as Full-Stack Applications to meet complex project requirements.",
   },
   {
     question: "What is your pricing model?",
